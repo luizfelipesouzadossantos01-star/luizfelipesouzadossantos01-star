@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Felipe 👋
+# Olá, eu sou Luiz Felipe 👋
 
 Estudante de **Sistemas de Informação (3º Semestre)**. 
 Focado em desenvolver soluções de alto impacto através de **Micro-SaaS** e automação de processos.
