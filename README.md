@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Luiz Felipe 👋
 
-<!--
-**luizfelipesouzadossantos01-star/luizfelipesouzadossantos01-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação (3º Semestre)**. 
+Focado em desenvolver soluções de alto impacto através de **Micro-SaaS** e automação de processos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Foco Atual
+* **Acadêmico:** Aprofundando conhecimentos em Arquitetura de Computadores, Estrutura de Dados e Lógica de Programação.
+* **Business:** Pesquisa e desenvolvimento de agentes de automação B2B com foco em eficiência e escalabilidade.
+* **Sistemas:** Otimização de fluxos de trabalho em ambiente **Linux Mint (Xfce)**.
+
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Python (Automação/Data) e C (Acadêmico).
+* **Ambiente:** Linux Mint, Terminal, Git/GitHub.
+* **Interesses:** Arquitetura de Software, Micro-SaaS, IA Aplicada a Negócios.
+
+### 📈 Objetivos para 2026/2027
+* Lançamento do primeiro MVP de um produto digital focado em automação B2B.
+* Domínio completo de infraestrutura escalável para operações solo.
+
+---
+*“A eficiência técnica é a base para a liberdade empreendedora.”*
